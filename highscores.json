@@ -1,0 +1,26 @@
+{
+    "highscores": [
+        {
+            "name": "Alice",
+            "score": 5
+        },
+        {
+            "name": "Bob",
+            "score": 4
+        },
+        {
+            "name": "Charlie",
+            "score": 3
+        },
+        {
+            "name": "Dave",
+            "score": 2
+        },
+        {
+            "name": "Eve",
+            "score": 1
+        }
+    ],
+    "maxEntries": 10,
+    "saveFileName": "highscores.json"
+}
