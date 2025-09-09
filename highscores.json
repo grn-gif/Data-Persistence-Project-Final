@@ -1,6 +1,26 @@
 {
     "highscores": [
         {
+            "name": "Cloud",
+            "score": 88
+        },
+        {
+            "name": "Cloud",
+            "score": 43
+        },
+        {
+            "name": "Yow",
+            "score": 16
+        },
+        {
+            "name": "Cloud",
+            "score": 14
+        },
+        {
+            "name": "Cloud",
+            "score": 11
+        },
+        {
             "name": "Alice",
             "score": 5
         },
@@ -14,6 +34,10 @@
         },
         {
             "name": "Dave",
+            "score": 2
+        },
+        {
+            "name": "Cloud",
             "score": 2
         },
         {

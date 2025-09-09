@@ -3,7 +3,7 @@ using UnityEngine;
 public class Paddle : MonoBehaviour
 {
     public float Speed = 2.0f;
-    public float MaxMovement = 2.0f;
+    public float MaxMovement = 1.9f;
     
     void Update()
     {
