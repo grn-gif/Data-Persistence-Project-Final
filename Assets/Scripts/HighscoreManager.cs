@@ -60,11 +60,11 @@ public class HighscoreManager : MonoBehaviour
         {
             highscores = new List<HighscoreEntry>()
             {
-                new HighscoreEntry { name = "Alice", score = 5 },
-                new HighscoreEntry { name = "Bob", score = 4 },
-                new HighscoreEntry { name = "Charlie", score = 3 },
-                new HighscoreEntry { name = "Dave", score = 2 },
-                new HighscoreEntry { name = "Eve", score = 1 },
+                new HighscoreEntry { name = "Oda", score = 35 },
+                new HighscoreEntry { name = "Gin", score = 29 },
+                new HighscoreEntry { name = "Lucis", score = 17 },
+                new HighscoreEntry { name = "Cloud", score = 15 },
+                new HighscoreEntry { name = "Libertus", score = 11 },
             };
         }
     }
@@ -75,11 +75,11 @@ public class HighscoreManager : MonoBehaviour
         highscores.Clear();
         highscores = new List<HighscoreEntry>()
         {
-            new HighscoreEntry { name = "Alice", score = 5 },
-            new HighscoreEntry { name = "Bob", score = 4 },
-            new HighscoreEntry { name = "Charlie", score = 3 },
-            new HighscoreEntry { name = "Dave", score = 2 },
-            new HighscoreEntry { name = "Eve", score = 1 },
+            new HighscoreEntry { name = "Oda", score = 35 },
+            new HighscoreEntry { name = "Gin", score = 29 },
+            new HighscoreEntry { name = "Lucis", score = 17 },
+            new HighscoreEntry { name = "Cloud", score = 15 },
+            new HighscoreEntry { name = "Libertus", score = 11 },
         };
         SaveHighscores();
         LoadHighscores();

@@ -1,48 +1,28 @@
 {
     "highscores": [
         {
-            "name": "Cloud",
-            "score": 88
+            "name": "Jinsong",
+            "score": 76
+        },
+        {
+            "name": "Oda",
+            "score": 35
+        },
+        {
+            "name": "Gin",
+            "score": 29
+        },
+        {
+            "name": "Lucis",
+            "score": 17
         },
         {
             "name": "Cloud",
-            "score": 43
+            "score": 15
         },
         {
-            "name": "Yow",
-            "score": 16
-        },
-        {
-            "name": "Cloud",
-            "score": 14
-        },
-        {
-            "name": "Cloud",
+            "name": "Libertus",
             "score": 11
-        },
-        {
-            "name": "Alice",
-            "score": 5
-        },
-        {
-            "name": "Bob",
-            "score": 4
-        },
-        {
-            "name": "Charlie",
-            "score": 3
-        },
-        {
-            "name": "Dave",
-            "score": 2
-        },
-        {
-            "name": "Cloud",
-            "score": 2
-        },
-        {
-            "name": "Eve",
-            "score": 1
         }
     ],
     "maxEntries": 10,
